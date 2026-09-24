@@ -258,8 +258,7 @@ write memory
 exit
 ```
 
-![Figure](screenshots/15-4c.jpeg)
-
+<img width="657" height="495" alt="Screenshot 2026-09-24 at 10 41 12 PM" src="https://github.com/user-attachments/assets/a70d9a3d-898a-46b2-9dba-e25e3d925479" />
 
 ---
 
@@ -273,8 +272,8 @@ show ip protocols
 
 Check that the output reads `Sending updates` / `Routing for Networks` with **"Sending version 2, Receiving version 2"** — if it still says version 1, double check the `version 2` line was entered inside `router rip` mode on every router.
 
-![Figure](screenshots/15-5.1a.jpeg)
-(screenshots/15-5.1b.jpeg)
+<img width="564" height="568" alt="Screenshot 2026-09-24 at 10 41 14 PM" src="https://github.com/user-attachments/assets/89dd64a1-a49e-48ff-b9b3-eac28c082dcd" />
+
 
 ### Step 5.2 – Check Routing Tables
 
@@ -287,9 +286,8 @@ You should see RIP routes (`R`) to all remote networks, each showing its **corre
 ```bash
 show ip route rip
 ```
+<img width="576" height="596" alt="Screenshot 2026-09-24 at 10 41 15 PM" src="https://github.com/user-attachments/assets/576a4990-3341-4862-9b0e-b72ef82c4c8f" />
 
-![Figure](screenshots/15-5.2a.jpeg)
-(screenshots/15-5.2b.jpeg)
 
 ### Step 5.3 – Test Connectivity
 
@@ -306,7 +304,7 @@ From **PC3**, ping **PC4**:
 ping 192.168.20.140
 ```
 
-![Figure](screenshots/15-5.3.jpeg)
+<img width="1036" height="880" alt="Screenshot 2026-09-24 at 10 41 10 PM" src="https://github.com/user-attachments/assets/26c28b26-2d57-431e-bc55-3c87d991f87b" />
 
 Repeat pings between any devices across networks.
 
