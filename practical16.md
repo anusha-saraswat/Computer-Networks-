@@ -91,10 +91,9 @@ Follow these steps for **R0** and **R1**:
 | From | To | Port/Interface |
 |------|----|-----------------|
 | R0   | R1 | se0/0 ↔ se1/0   |
-
-![Figure](screenshots/16-2.png)
-
 ---
+
+<img width="1071" height="628" alt="Screenshot 2026-09-24 at 10 41 17 PM" src="https://github.com/user-attachments/assets/06c9c8b4-5e04-4df7-97a2-a2b6047f37b8" />
 
 ## Part 3 – IP Addressing Scheme
 
