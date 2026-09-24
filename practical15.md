@@ -41,7 +41,8 @@ This network includes:
 
 Unlike Tutorial 10, all addressing here comes from **one classful network, `192.168.20.0/24`**, subnetted with VLSM so the LANs and the WAN links use *different* mask lengths.
 
-![Figure](screenshots/15-1.jpeg)
+<img width="1599" height="899" alt="WhatsApp Image 2026-09-24 at 10 41 13 PM" src="https://github.com/user-attachments/assets/8c3f9ca2-785f-409e-9bd5-dd02e9e9d4f6" />
+
 
 ---
 
