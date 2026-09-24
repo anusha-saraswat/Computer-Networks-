@@ -104,7 +104,7 @@ Follow these steps for **R0**, **R1**, and **R2**:
 | R0   | R1 | se0/0 ↔ se1/0   |
 | R1   | R2 | se0/0 ↔ se1/0   |
 
-<img width="1448" height="856" alt="Screenshot 2026-09-24 at 10 41 11 PM" src="https://github.com/user-attachments/assets/64d9dbe4-0874-46f9-8570-6eb643713311" />
+<img width="1068" height="504" alt="Screenshot  2026-09-24 at 10 41 13 PM" src="https://github.com/user-attachments/assets/a18d80bb-ccfd-4bc2-9366-3fd3e4a3d45d" />
 
 ---
 
@@ -140,6 +140,7 @@ Go to **Desktop > IP Configuration** on each PC:
 | PC4 | 192.168.20.140 | 255.255.255.192  | 192.168.20.129    |
 | PC5 | 192.168.20.141 | 255.255.255.192  | 192.168.20.129    |
 
+<img width="1448" height="856" alt="Screenshot 2026-09-24 at 10 41 11 PM" src="https://github.com/user-attachments/assets/99e76d27-cf8a-49f4-bcd4-a42225b47684" />
 
 
 ```{admonition} Important
