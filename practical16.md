@@ -205,7 +205,7 @@ show ip bgp summary
 
 Look at the neighbor's `State/PfxRcd` column — a numeric value (e.g. `1`) means the peering is **Established** and a prefix has been received. If it instead shows `Idle` or `Active`, the peering hasn't come up yet — double check the serial link's IPs, the AS numbers, and that both interfaces show `no shutdown`.
 
-![Figure](screenshots/16-5a.png)
+<img width="820" height="292" alt="Screenshot 2026-09-24 at 10 45 14 PM" src="https://github.com/user-attachments/assets/22c32c55-19aa-41cc-97cc-bce142b686d9" />
 
 ### Step 5.2 – Inspect the BGP Table
 
@@ -215,7 +215,8 @@ show ip bgp
 
 You should see both `172.16.1.0/24` and `172.16.2.0/24` listed, each with its next-hop and AS path.
 
-![Figure](screenshots/16-5b.png)
+<img width="797" height="179" alt="Screeenshot 2026-09-24 at 10 45 17 PM" src="https://github.com/user-attachments/assets/b698f2ef-be40-4570-8c89-a44a7fb60309" />
+
 
 ### Step 5.3 – Check Routing Tables
 
@@ -225,7 +226,8 @@ show ip route bgp
 
 You should see the remote LAN as a BGP route (`B`), learned entirely through the eBGP peering rather than a static entry or an IGP.
 
-![Figure](screenshots/16-5c.png)
+<img width="501" height="53" alt="Screenshot 2026-09-24 at 10 45 17 PM" src="https://github.com/user-attachments/assets/3da5d8a2-17d7-4804-a9c4-ba12770656d6" />
+
 
 ### Step 5.4 – Test Connectivity
 
