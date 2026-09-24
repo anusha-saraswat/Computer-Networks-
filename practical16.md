@@ -163,7 +163,8 @@ exit
 write memory
 exit
 ```
-![Figure](screenshots/16-4a.png)
+<img width="878" height="615" alt="Screenshot 2026-09-24 at 10 41 27 PM" src="https://github.com/user-attachments/assets/796f0c6a-b401-411d-b515-131ab4ca27c6" />
+
 
 ### Step 4.2 – R1 Configuration (AS 200)
 
@@ -190,8 +191,7 @@ exit
 write memory
 exit
 ```
-
-![Figure](screenshots/16-4b.png)
+<img width="868" height="690" alt="Screenshot 2026-09-24 at 10 43 15 PM" src="https://github.com/user-attachments/assets/c8b8b03b-375b-42a2-9245-02d9652eed50" />
 
 ---
 
