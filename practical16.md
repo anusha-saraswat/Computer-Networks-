@@ -236,15 +236,14 @@ From **PC0**, run:
 ```bash
 ping 172.16.2.10
 ```
-![Figure](screenshots/16-5d1.png)
+<img width="596" height="266" alt="Screenshot 2026-09-24 at 10 48 13 PM" src="https://github.com/user-attachments/assets/64427e84-14d1-4c5c-8c33-013f2cd9ce53" />
 
 From **PC2**, run:
 
 ```bash
 ping 172.16.1.10
 ```
-
-![Figure](screenshots/16-5d2.png)
+<img width="575" height="259" alt="Screenshot 2026-09-24 at 10 49 13 PM" src="https://github.com/user-attachments/assets/90965214-cb4b-49e3-992b-0fd066f4ac06" />
 
 ---
 
