@@ -93,7 +93,7 @@ Follow these steps for **R0** and **R1**:
 | R0   | R1 | se0/0 ↔ se1/0   |
 ---
 
-<img width="1071" height="628" alt="Screenshot 2026-09-24 at 10 41 17 PM" src="https://github.com/user-attachments/assets/06c9c8b4-5e04-4df7-97a2-a2b6047f37b8" />
+<img width="956" height="614" alt="Screenshot 2026-09-24 at 10 41 19 PM" src="https://github.com/user-attachments/assets/4772c984-9271-40dc-a76e-37e9e29ae6b9" />
 
 ## Part 3 – IP Addressing Scheme
 
@@ -114,7 +114,8 @@ Go to **Desktop > IP Configuration** on each PC:
 | PC2 | 172.16.2.10  | 255.255.255.0   | 172.16.2.1        |
 | PC3 | 172.16.2.11  | 255.255.255.0   | 172.16.2.1        |
 
-![Figure](screenshots/16-3.png)
+<img width="991" height="627" alt="WhatsApp Image 2026-09-24 at 10 41 16 PM" src="https://github.com/user-attachments/assets/0a462e81-6071-4128-aea3-040647d3e742" />
+
 
 ```{admonition} Important
 :class: important
